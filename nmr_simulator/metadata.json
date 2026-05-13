@@ -1,0 +1,6 @@
+{
+  "name": "NMR Master: Interactive Spectroscopy",
+  "description": "An interactive educational tool for visualizing and understanding 1H and 13C NMR spectroscopy. Features interactive molecule-to-spectrum mapping and an AI tutor powered by Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}

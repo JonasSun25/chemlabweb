@@ -1,0 +1,6 @@
+{
+  "name": "ChromaLab: Column Chromatography Simulator",
+  "description": "An interactive, educational animation demonstrating the principles of Column Chromatography. Features a real-time particle simulation of separation based on polarity, interactive lab controls, and an AI Lab Assistant for detailed explanations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
